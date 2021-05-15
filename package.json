@@ -1,0 +1,15 @@
+{
+  "name": "truffle-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sibiraj PR <sibiraj@lightrains.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.1.0",
+    "@truffle/hdwallet-provider": "^1.4.0",
+    "bignumber.js": "^9.0.1",
+    "dotenv": "^9.0.2",
+    "truffle-plugin-verify": "^0.5.8",
+    "web3": "1.3.3"
+  }
+}
