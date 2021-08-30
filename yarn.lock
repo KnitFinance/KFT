@@ -1720,9 +1720,9 @@ finalhandler@~1.1.2:
     unpipe "~1.0.0"
 
 follow-redirects@^1.10.0:
-  version "1.14.1"
-  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.14.1.tgz#d9114ded0a1cfdd334e164e6662ad02bfd91ff43"
-  integrity sha512-HWqDgT7ZEkqRzBvc2s64vSZ/hfOceEol3ac/7tKwzuvEyWx3/4UegXh5oBOIotkGsObyk3xznnSRVADBgWSQVg==
+  version "1.14.2"
+  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.14.2.tgz#cecb825047c00f5e66b142f90fed4f515dec789b"
+  integrity sha512-yLR6WaE2lbF0x4K2qE2p9PEXKLDjUjnR/xmjS3wHAYxtlsI9MLLBJUZirAHKzUZDGLxje7w/cXR49WOUo4rbsA==
 
 foreach@^2.0.5:
   version "2.0.5"
@@ -3251,10 +3251,10 @@ tough-cookie@~2.5.0:
     psl "^1.1.28"
     punycode "^2.1.1"
 
-truffle-plugin-verify@^0.5.8:
-  version "0.5.8"
-  resolved "https://registry.yarnpkg.com/truffle-plugin-verify/-/truffle-plugin-verify-0.5.8.tgz#9564c2860016ede93f36249a11ec3147fa750bad"
-  integrity sha512-q45RI54mDu+8V5vbWfO4sIdUQqDX2AYEkr4T48CijQIIRlWYGDMFkw577tgSbf2yzmMueAKOjTxLTHX0osR+bQ==
+truffle-plugin-verify@^0.5.12:
+  version "0.5.12"
+  resolved "https://registry.yarnpkg.com/truffle-plugin-verify/-/truffle-plugin-verify-0.5.12.tgz#7ae3d4a4fb3065ae34cffc91eb0e93420ee5b5d4"
+  integrity sha512-/yR86mjid9ELDVHZWKORTFY3Zc5I17QQ9ajiTQGvZcUDdbPT/ym5ue+xOq5/Q9oqbUJORt/4PtNGFeX24AS/SA==
   dependencies:
     axios "^0.21.1"
     cli-logger "^0.5.40"
